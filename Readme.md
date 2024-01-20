@@ -1,6 +1,6 @@
 # Coding Dojo Boilerplate
 
-Welcome to the Coding Dojo! This repository serves as a starting point for coding practice sessions. It's designed to help you enhance your coding skills through collaborative learning and problem-solving.
+This repository serves as a starting point for coding practice sessions.
 
 ## Getting Started
 
